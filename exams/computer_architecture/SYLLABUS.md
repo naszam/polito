@@ -9,7 +9,7 @@
     * [ ] CPU;
     * [ ] Cache memory;
     * [ ] Main memory;
-    * [ ] Second memory;
+    * [ ] Secondary memory;
     * [ ] Peripherals;
     * [ ] Input/Output devices and related addressing and communication issues;
     * [ ] Buses and Addressing Mode;
