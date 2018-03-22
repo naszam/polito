@@ -5,4 +5,3 @@
       * [ ] Chemistry
       * [ ] Physics
       * [ ] Computer Architecture
-      * [ ]
