@@ -7,7 +7,7 @@
       * [ ] Dimensions of physical observables and units of measurement
       * [ ] Uncertainty (statistical and systematic errors) and uncertainty propagation 
 
-* [ ] Particle KINEMATICS
+ * [ ] Particle KINEMATICS
       * [ ] Review of vector calculus
       * [ ] Reference frames
       * [ ] Position, displacement, velocity, and acceleration in 1, 2 and 3 dimensions
@@ -16,7 +16,7 @@
       * [ ] Polar and cylindrical coordinates
       * [ ] Tangent and normal components of acceleration, radius of curvature
       * [ ] Circular motion
-      * [ ] Velocity and acceleration composition laws. 
+      * [ ] Velocity and acceleration composition laws
 
  * [ ] Particle DYNAMICS 
       * [ ] Mass and force
