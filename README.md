@@ -5,11 +5,11 @@ Track &amp; Record on progress plus labs, projects, thesis, ...
 
 * Computer Science 
 
-  * [Algorithms](./exams/algorithms/SYLLABUS.md)
   * [Computer Architecture](./exams/computer_architecture/SYLLABUS.md)
-  * [Operating Systems](./exams/operating_systems/SYLLABUS.md)
-  * [Computer Networks](./exams/computer_networks/SYLLABUS.md)
+  * [Algorithms](./exams/algorithms/SYLLABUS.md)
   * [Databases](./exams/databases/SYLLABUS.md)
+  * [Computer Networks](./exams/computer_networks/SYLLABUS.md)
+  * [Operating Systems](./exams/operating_systems/SYLLABUS.md)
 
 * Science
 
