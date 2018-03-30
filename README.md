@@ -3,4 +3,4 @@ Track &amp; Record on progress plus labs, projects, thesis, ...
 
 # Exams
 
-[] [APA](./exams/README)
+[] [APA](./exams)
