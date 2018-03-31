@@ -1,6 +1,3 @@
-# PoliTO
-Track &amp; Record on progress plus labs, projects, thesis, ...
-
 # Exams
 
 * Computer Science 
