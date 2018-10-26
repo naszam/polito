@@ -1,6 +1,6 @@
 ## PoliTo
 
-Notes and Codes regarding exams on Computer Engineering at Polytechnic of Turin.
+Notes and Code regarding exams on Computer Engineering at Polytechnic of Turin.
 
 # Exams
 
